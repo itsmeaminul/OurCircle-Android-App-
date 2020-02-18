@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/scrollView11"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@mipmap/background"
+        android:orientation="vertical"
+        android:weightSum="1"
+        tools:context="com.example.aminul.myfriends.KabitaActivity">
+
+
+        <ImageView
+            android:id="@+id/imageView10"
+            android:layout_width="wrap_content"
+            android:layout_height="400dp"
+            android:layout_weight="0.62"
+            android:background="@mipmap/kabita" />
+
+        <TextView
+            android:id="@+id/textView10"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="5dp"
+            android:text="Kamrun Nahar Kabita"
+            android:textAllCaps="true"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="@color/colorPrimaryDark"
+            android:textSize="20sp" />
+
+
+        <ListView
+            android:id="@+id/listView12"
+            android:layout_width="match_parent"
+            android:layout_height="265dp"
+            android:layout_marginTop="5dp" />
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="#FFFFFF"
+            android:orientation="horizontal">
+
+            <ImageButton
+                android:id="@+id/kabita_call_Button"
+                android:layout_width="25dp"
+                android:layout_height="60dp"
+                android:layout_margin="3dp"
+                android:layout_weight="1"
+                android:background="@mipmap/call_logo" />
+
+            <ImageButton
+                android:id="@+id/kabita_sms_Button"
+                android:layout_width="25dp"
+                android:layout_height="60dp"
+                android:layout_margin="2dp"
+                android:layout_weight="1"
+                android:background="@mipmap/sms_logo" />
+
+            <ImageButton
+                android:id="@+id/kabita_fb_Button"
+                android:layout_width="25dp"
+                android:layout_height="61dp"
+                android:layout_margin="2dp"
+                android:layout_weight="1"
+                android:background="@mipmap/fb_logo" />
+
+            <ImageButton
+                android:id="@+id/kabita_mail_Button"
+                android:layout_width="25dp"
+                android:layout_height="60dp"
+                android:layout_margin="2dp"
+                android:layout_weight="1"
+                android:background="@mipmap/mail_logo" />
+        </LinearLayout>
+    </LinearLayout>
+
+
+</ScrollView>

@@ -1,0 +1,111 @@
+<resources>
+    <string name="app_name">Our Circle</string>
+
+
+    <string-array name="mamunList">
+        <item>Institute: Daffodil International University, Dhaka</item>
+        <item>Date of Birth: 11 June</item>
+        <item>Blood Group: ? </item>
+        <item>Address:  Kosba, Sadar, Dinajpur</item>
+        <item>Contact Number:  01745782321</item>
+    </string-array>
+
+
+    <string-array name="hasanList">
+        <item>Institute: International University of Business Agriculture and Technology, Dhaka</item>
+        <item>Date of Birth: 25 June</item>
+        <item>Blood Group: O(+) </item>
+        <item>Address: Newtown 6 No., Sadar, Dinajpur</item>
+        <item>Contact Number:  01762709782</item>
+    </string-array>
+
+
+    <string-array name="subbirList">
+        <item>Institute: University of Asia Pacific, Dhaka</item>
+        <item>Date of Birth: 27 January</item>
+        <item>Blood Group: ? </item>
+        <item>Address:  Ghughudanga, Sadar, Dinajpur</item>
+        <item>Contact Number:  01755176332</item>
+    </string-array>
+
+    <string-array name="hinoyList">
+        <item>Institute: Rajshahi University Of Engineering And Technology</item>
+        <item>Date of Birth: 10 August</item>
+        <item>Blood Group: B(+) </item>
+        <item>Address:  Mison Road, Sadar, Dinajpur</item>
+        <item>Contact Number:  01823802904</item>
+    </string-array>
+
+
+    <string-array name="shahinurList">
+        <item>Institute: Bangabandhu Textile Engineering College, Gajipur</item>
+        <item>Date of Birth: 28 September</item>
+        <item>Blood Group: O(+) </item>
+        <item>Address:  Mokhlespur,Biral, Dinajpur</item>
+        <item>Contact Number:  01721385642</item>
+    </string-array>
+
+    <string-array name="jamiulList">
+        <item>Institute: Dhaka Dental College</item>
+        <item>Date of Birth: 9 November</item>
+        <item>Blood Group: B(+) </item>
+        <item>Address:  Kosba(Boropul), Sadar, Dinajpur</item>
+        <item>Contact Number:  01737367874</item>
+    </string-array>
+
+    <string-array name="amiList">
+        <item>Institute: Begum Rokeya University, Rangpur</item>
+        <item>Date of Birth: 22 June</item>
+        <item>Blood Group: O(+) </item>
+        <item>Address:  Chatrapara, Sadar, Dinajpur</item>
+        <item>Contact Number:  01746018788</item>
+    </string-array>
+
+    <string-array name="sumiList">
+        <item>Institute: Home Economics, University of Dhaka</item>
+        <item>Date of Birth: 02 December</item>
+        <item>Blood Group: O(+) </item>
+        <item>Address: Newtown 6 No. , Sadar, Dinajpur</item>
+        <item>Contact Number:  01739770203</item>
+    </string-array>
+
+    <string-array name="appleList">
+        <item>Institute: Atish Dipankar University of Science and Technology, Dhaka</item>
+        <item>Date of Birth: 28 January </item>
+        <item>Blood Group: A(+) </item>
+        <item>Address:  Ghughudanga, Sadar, Dinajpur</item>
+        <item>Contact Number:  01734570388</item>
+    </string-array>
+
+    <string-array name="triptyList">
+        <item>Institute: Home Economics, University of Dhaka</item>
+        <item>Date of Birth: 27 July</item>
+        <item>Blood Group: A(+) </item>
+        <item>Address: Newtown 5 No., Sadar, Dinajpur</item>
+        <item>Contact Number:  01521547775</item>
+    </string-array>
+
+    <string-array name="sizaList">
+        <item>Institute: Hajee Mohammad Danesh Science and Technology University, Dinajpur</item>
+        <item>Date of Birth: 02 July</item>
+        <item>Blood Group: ? </item>
+        <item>Address: Newtown 3 No.(Quaty Mosjid Mor), Sadar, Dinajpur</item>
+        <item>Contact Number:  01705808656</item>
+    </string-array>
+
+
+    <string-array name="kabitaList">
+        <item>Institute: Hajee Mohammad Danesh Science and Technology University, Dinajpur</item>
+        <item>Date of Birth: 02 August</item>
+        <item>Blood Group: O(+) </item>
+        <item>Address:  Sector Commander House, Sadar, Dinajpur</item>
+        <item>Contact Number:  01749411684</item>
+    </string-array>
+
+
+    <string-array name="about">
+        <item>About the App: </item>
+        <item>This app is for our friend circle to communicate with each other.</item>
+        <item> </item>
+    </string-array>
+</resources>

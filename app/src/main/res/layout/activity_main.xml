@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:id="@+id/scrollView">
+
+
+
+    <LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:weightSum="2.0">
+
+
+            <ImageButton
+                android:layout_width="match_parent"
+                android:layout_height="230dp"
+                android:layout_weight="1.0"
+                android:id="@+id/start_mamun_button"
+                android:background="@mipmap/mamun_button"/>
+
+            <ImageButton
+                android:layout_width="match_parent"
+                android:layout_height="230dp"
+                android:layout_weight="1.0"
+                android:id="@+id/start_hasan_button"
+                android:background="@mipmap/hasan_button"/>
+        </LinearLayout>
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:weightSum="2.0">
+
+            <ImageButton
+                android:layout_width="match_parent"
+                android:layout_height="230dp"
+                android:layout_weight="1.0"
+                android:id="@+id/start_subbir_button"
+                android:background="@mipmap/subbir_button"/>
+
+            <ImageButton
+                android:layout_width="match_parent"
+                android:layout_height="230dp"
+                android:layout_weight="1.0"
+                android:id="@+id/start_hinoy_button"
+                android:background="@mipmap/hinoy_button"/>
+        </LinearLayout>
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:weightSum="2.0">
+
+            <ImageButton
+                android:layout_width="match_parent"
+                android:layout_height="230dp"
+                android:layout_weight="1.0"
+                android:id="@+id/start_shahinur_button"
+                android:background="@mipmap/shahinur_button"/>
+
+            <ImageButton
+                android:layout_width="match_parent"
+                android:layout_height="230dp"
+                android:layout_weight="1.0"
+                android:id="@+id/start_jami_button"
+                android:background="@mipmap/jami_button"/>
+        </LinearLayout>
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:weightSum="2.0">
+
+            <ImageButton
+                android:layout_width="match_parent"
+                android:layout_height="230dp"
+                android:layout_weight="1.0"
+                android:id="@+id/start_aminul_button"
+                android:background="@mipmap/aminul_button"/>
+
+            <ImageButton
+                android:layout_width="match_parent"
+                android:layout_height="230dp"
+                android:layout_weight="1.0"
+                android:id="@+id/start_sumona_button"
+                android:background="@mipmap/sumona_button"/>
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:weightSum="2.0">
+
+            <ImageButton
+                android:layout_width="match_parent"
+                android:layout_height="230dp"
+                android:layout_weight="1.0"
+                android:id="@+id/start_apple_button"
+                android:background="@mipmap/apple_button"/>
+
+            <ImageButton
+                android:layout_width="match_parent"
+                android:layout_height="230dp"
+                android:layout_weight="1.0"
+                android:id="@+id/start_tripty_button"
+                android:background="@mipmap/tripty_button"/>
+        </LinearLayout>
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:weightSum="2.0">
+
+            <ImageButton
+                android:layout_width="match_parent"
+                android:layout_height="230dp"
+                android:layout_weight="1.0"
+                android:id="@+id/start_siza_button"
+                android:background="@mipmap/siza_button"/>
+
+            <ImageButton
+                android:layout_width="match_parent"
+                android:layout_height="230dp"
+                android:layout_weight="1.0"
+                android:id="@+id/start_kabita_button"
+                android:background="@mipmap/kabita_button"/>
+        </LinearLayout>
+
+    </LinearLayout>
+
+
+
+
+
+</ScrollView>
